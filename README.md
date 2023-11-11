@@ -8,6 +8,7 @@
 
 <h3 align="center">Solved problems</h3>
   <p>
+    <a href="https://www.codewars.com/users/OwidiuszZielinski">
     <img src="https://www.codewars.com/users/OwidiuszZielinski/badges/large" />
   </p>
 </div>
