@@ -6,9 +6,11 @@
     <img src="https://komarev.com/ghpvc/?username=owidiuszzielinski&label=Profile%20views&color=0e75b6&style=flat" alt="owidiuszzielinski" />
   </p>
 
-<h3 align="center">Solved problems</h3>
+ <h3>Solved problems</h3>
   <p>
-    <img src="https://www.codewars.com/users/OwidiuszZielinski/badges/large" />
+    <a href="https://www.codewars.com/users/OwidiuszZielinski" target="_blank">
+      <img src="https://www.codewars.com/users/OwidiuszZielinski/badges/large" alt="Codewars Badge" />
+    </a>
   </p>
 </div>
 
