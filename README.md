@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Owidiusz</h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; ">
+<div  align="center">
   <p>
     <img src="https://komarev.com/ghpvc/?username=owidiuszzielinski&label=Profile%20views&color=0e75b6&style=flat" alt="owidiuszzielinski" />
   </p>
@@ -11,6 +11,7 @@
     <img src="https://www.codewars.com/users/OwidiuszZielinski/badges/large" />
   </p>
 </div>
+
 
 
 
