@@ -35,9 +35,6 @@
 
 <img src="https://raw.githubusercontent.com/OwidiuszZielinski/OwidiuszZielinski/output/snake.svg" alt="Snake animation" />
 
-### 
-
-
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=owidiuszzielinski&theme=radical" alt="owidiuszzielinski" />
