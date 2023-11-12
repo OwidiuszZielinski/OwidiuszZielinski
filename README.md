@@ -39,10 +39,10 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=owidiuszzielinski&theme=radical" alt="owidiuszzielinski" />
-    <img src="https://github-readme-stats.vercel.app/api?username=owidiuszzielinski&show_icons=true&locale=en&theme=radical" alt="owidiuszzielinski" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=owidiuszzielinski&theme=radical&cache=1" alt="owidiuszzielinski" />
+    <img src="https://github-readme-stats.vercel.app/api?username=owidiuszzielinski&show_icons=true&locale=en&theme=radical&cache=1" alt="owidiuszzielinski" />
   </div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=owidiuszzielinski&show_icons=true&locale=en&layout=compact&theme=radical" alt="owidiuszzielinski" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=owidiuszzielinski&show_icons=true&locale=en&layout=compact&theme=radical&cache=1" alt="owidiuszzielinski" /></p>
 </div>
 
 
