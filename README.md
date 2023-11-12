@@ -1,9 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm Owidiusz !👨‍💻 ;" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&duration=4000&color=13A15B&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hi+Everyone+!+%F0%9F%91%8B;I'm+Owidiusz+!%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </h1>
-
-
-<h3 align="center">A passionate backend developer from Poland</h3>
+<h3 align="center">A passionate java backend developer</h3>
 
 <div  align="center">
   <p>
@@ -44,7 +42,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=owidiuszzielinski&theme=radical" alt="owidiuszzielinski" />
     <img src="https://github-readme-stats.vercel.app/api?username=owidiuszzielinski&show_icons=true&locale=en&theme=radical" alt="owidiuszzielinski" />
   </div>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=owidiuszzielinski&show_icons=true&locale=en&layout=compact&theme=radical" alt="owidiuszzielinski" /></p>
 </div>
 
