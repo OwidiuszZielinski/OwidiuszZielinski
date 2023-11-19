@@ -21,7 +21,7 @@
 </div>
 
 
-- 🔭 I’m currently working on **Scaff-Done**
+- 🔭 I’m currently working on <a href="https://github.com/OwidiuszZielinski/Scaff-Done">Scaff-Done</a>
 
 - 🎓 I still work in a group of four people on university projects
 
@@ -32,6 +32,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/OwidiuszZielinski?tab=repositories](https://github.com/OwidiuszZielinski?tab=repositories)
 
 - 📫 How to reach me **zielinski.owidiusz@gmail.com**
+  
+
+
 
 
 
@@ -43,6 +46,26 @@
     <img src="https://github-readme-stats.vercel.app/api?username=owidiuszzielinski&show_icons=true&locale=en&theme=radical&cache=1" alt="owidiuszzielinski" />
   </div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=owidiuszzielinski&show_icons=true&locale=en&layout=compact&theme=radical&cache=1" alt="owidiuszzielinski" /></p>
+</div>
+
+
+<div align="center">
+  <h3>Main projects</h3>
+  <div style="display: flex; justify-content: space-around;">
+    <a href="https://codesandbox.io/s/github/hasura/gqless-movies-demo">
+      <img src="https://github.com/OwidiuszZielinski/Scaff-Done/blob/master/screenshots/Scaff-Done-Demo.gif?raw=true" alt="CodeSandbox intellisense demo" width="600" height="400" style="margin-right: 20px;">
+    </a>
+     <a>
+      <img src="https://camo.githubusercontent.com/615fe3a9ecc24fedd45c4535d8525bfe5a2226d88e2aa306e91124406af0033b/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d3155533170557a6f2d375a646a67344a66657a705344546d5178316956364b6538266578706f72743d646f776e6c6f6164?raw=true" width="600" height="400" style="margin-right: 20px;">
+    </a>
+     <a>
+      <img src="https://camo.githubusercontent.com/e06529318470c8f7bbb075794e6c2d01dda4bab2f35a257fe0f7df8c1ab7c61f/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d316d796c77776e6b43694f6654346733316a2d626a4b4e6268366359714e335946266578706f72743d646f776e6c6f6164?raw=true" width="600" height="400" style="margin-right: 20px;">
+    </a>
+    <a href="https://codesandbox.io/s/github/hasura/gqless-movies-demo">
+      <img src="https://github.com/OwidiuszZielinski/Paint_Clone_SFML/blob/master/Paint-Demo.gif?raw=true" alt="CodeSandbox intellisense demo" width="600" height="400">
+    </a>
+    
+  </div>
 </div>
 
 
