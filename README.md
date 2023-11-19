@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **zielinski.owidiusz@gmail.com**
 
-- ⚡ Fun fact **I'm pleasant man**
+
 
 <img src="https://raw.githubusercontent.com/OwidiuszZielinski/OwidiuszZielinski/output/snake.svg" alt="Snake animation" />
 
